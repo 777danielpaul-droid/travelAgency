@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "globals": ["JSX"],
+    "esversion": 2020,
+    "browser": true,
+    "module": "esmodules"
+  },
+  "include": ["src"]
+}
